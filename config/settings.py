@@ -11,6 +11,10 @@ RESUMES_DIR = DATA_DIR / "resumes"
 JD_DIR = DATA_DIR / "job_descriptions"
 MODELS_DIR = BASE_DIR / "models"
 
+# Ensure all required directories exist on disk
+for _dir in [DATA_DIR, RAW_DIR, PROCESSED_DIR, POLICIES_DIR, RESUMES_DIR, JD_DIR, MODELS_DIR]:
+    _dir.mkdir(parents=True, exist_ok=True)
+
 # ── Database ──────────────────────────────────────────────────────────────────
 DATABASE_URL = f"sqlite:///{BASE_DIR}/data/hr_platform.db"
 DATABASE_PATH = BASE_DIR / "data" / "hr_platform.db"
