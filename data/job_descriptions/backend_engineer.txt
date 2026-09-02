@@ -1,0 +1,35 @@
+JOB TITLE: Backend Software Engineer
+DEPARTMENT: Technology / Platform
+LEVEL: Mid-Senior (Level 3-4)
+
+ABOUT THE ROLE:
+We are looking for a Backend Engineer to design and build the APIs and services 
+that power our enterprise HR AI platform.
+
+KEY RESPONSIBILITIES:
+• Design and develop RESTful APIs and microservices using Python/FastAPI
+• Build scalable, high-performance backend systems
+• Design database schemas and optimize SQL queries (PostgreSQL)
+• Implement authentication, authorization, and security best practices
+• Write unit and integration tests with >80% code coverage
+• Participate in code reviews and architectural discussions
+• Collaborate with frontend and ML teams for seamless integration
+• Monitor and troubleshoot production systems
+
+REQUIRED SKILLS:
+• 4+ years of backend development experience
+• Strong Python (FastAPI, Django, or Flask)
+• PostgreSQL or similar relational databases
+• REST API design principles and OpenAPI/Swagger
+• Redis for caching and message queuing
+• Docker and container orchestration (Kubernetes)
+• Git, CI/CD (GitHub Actions, Jenkins)
+• Microservices architecture patterns
+
+NICE TO HAVE:
+• Experience with message queues (Kafka, RabbitMQ)
+• Knowledge of GraphQL
+• Cloud deployment (AWS, GCP, Azure)
+• Familiarity with ML model serving
+
+COMPENSATION: ₹15–25 LPA / $80,000–$120,000 USD

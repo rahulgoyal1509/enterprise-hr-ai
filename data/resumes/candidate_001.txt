@@ -1,0 +1,48 @@
+RESUME - CANDIDATE 001
+
+NAME: Arjun Sharma
+EMAIL: arjun.sharma@email.com | PHONE: +91-9876543210
+LOCATION: Bangalore, India | LINKEDIN: linkedin.com/in/arjunsharma-ml
+
+SUMMARY:
+Experienced Machine Learning Engineer with 5 years of building and deploying production ML systems.
+Passionate about applying AI to solve real-world business problems. Strong background in Python, 
+scikit-learn, TensorFlow, and cloud ML platforms.
+
+WORK EXPERIENCE:
+
+Senior ML Engineer | TechCorp India | 2022–Present
+• Built attrition prediction model (RandomForest) achieving 87% accuracy for 50,000 employees
+• Deployed 12 ML models to AWS SageMaker with auto-scaling serving
+• Implemented MLflow for model versioning and experiment tracking
+• Reduced model inference latency by 40% through quantization and caching
+• Led a team of 3 junior data scientists
+
+Data Scientist | Analytics Co | 2020–2022
+• Developed customer churn model using XGBoost, reducing churn by 15%
+• Built recommendation engine serving 2M users daily
+• Created automated feature engineering pipeline with Feast feature store
+• Presented insights to C-suite executives monthly
+
+ML Engineer Intern | StartupXYZ | 2019–2020
+• Implemented NLP sentiment analysis for 10K+ customer reviews
+• Built data pipelines with Apache Airflow
+
+SKILLS:
+Python, scikit-learn, TensorFlow, PyTorch, pandas, numpy, SQL, PostgreSQL,
+AWS SageMaker, GCP Vertex AI, MLflow, DVC, Docker, Kubernetes, Spark, FAISS,
+Transformers (HuggingFace), FastAPI, Git, CI/CD
+
+EDUCATION:
+M.Tech in Computer Science (AI Specialization) | IIT Bangalore | 2019
+B.Tech in Computer Science | NIT Trichy | 2017
+
+CERTIFICATIONS:
+• AWS Certified Machine Learning – Specialty (2023)
+• Google Professional Data Engineer (2022)
+• Deep Learning Specialization – Coursera (2020)
+
+PROJECTS:
+• HR Analytics Dashboard: Built full-stack ML pipeline for workforce analytics
+• NLP Resume Screener: TF-IDF + BERT-based resume ranking system
+• Time Series Forecasting: LSTM-based demand forecasting for supply chain

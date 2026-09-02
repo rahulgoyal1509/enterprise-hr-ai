@@ -1,0 +1,41 @@
+# Core Data & ML
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.4.2
+scipy==1.13.0
+
+# Database
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+
+# API
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-multipart==0.0.9
+httpx==0.27.0
+
+# NLP / AI
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+nltk==3.8.1
+textblob==0.18.0
+scikit-learn==1.4.2
+
+# Frontend
+streamlit==1.35.0
+plotly==5.22.0
+altair==5.3.0
+streamlit-option-menu==0.3.12
+streamlit-extras==0.4.2
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
+tqdm==4.66.4
+openpyxl==3.1.2
+
+# PDF generation (synthetic data)
+reportlab==4.2.0

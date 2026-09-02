@@ -1,0 +1,33 @@
+JOB TITLE: Data Analyst
+DEPARTMENT: Business Intelligence
+LEVEL: Mid (Level 2-3)
+
+ABOUT THE ROLE:
+We are seeking a skilled Data Analyst to transform complex HR and business data 
+into actionable insights that drive strategic decisions.
+
+KEY RESPONSIBILITIES:
+• Analyze large datasets to identify trends, patterns, and insights
+• Build and maintain dashboards and reports using BI tools
+• Partner with HR, Finance, and Operations teams to understand data needs
+• Perform statistical analysis and hypothesis testing
+• Create data visualizations that communicate insights effectively
+• Write SQL queries to extract and transform data from various sources
+• Automate recurring reports and data workflows
+
+REQUIRED SKILLS:
+• 2+ years of data analysis experience
+• Advanced SQL (window functions, CTEs, subqueries)
+• Python or R for data analysis (pandas, matplotlib, seaborn)
+• Experience with BI tools: Tableau, Power BI, or Looker
+• Strong Excel/Google Sheets skills
+• Statistical knowledge: regression, correlation, significance testing
+• Excellent communication and presentation skills
+
+NICE TO HAVE:
+• Experience with dbt for data transformation
+• Knowledge of Google Analytics or Adobe Analytics
+• Familiarity with A/B testing and experimentation
+• People analytics experience
+
+COMPENSATION: ₹8–15 LPA / $55,000–$85,000 USD

@@ -1,0 +1,48 @@
+RESUME - CANDIDATE 003
+
+NAME: Rahul Kumar
+EMAIL: rahul.kumar@email.com | PHONE: +91-9123456789
+LOCATION: Pune, India | GITHUB: github.com/rahulkumar-dev
+
+SUMMARY:
+Backend Software Engineer with 4 years of experience building scalable APIs and microservices.
+Expert in Python, FastAPI, PostgreSQL, and cloud infrastructure. Passionate about clean code,
+testing, and developer experience.
+
+WORK EXPERIENCE:
+
+Backend Engineer | FinTech Startup | 2022–Present
+• Designed and built 25+ REST APIs using FastAPI serving 500K+ requests/day
+• Migrated monolith to microservices architecture, improving deployment frequency 5x
+• Optimized PostgreSQL queries reducing average response time from 800ms to 80ms
+• Implemented JWT authentication and RBAC for enterprise security compliance
+• Set up CI/CD pipeline with GitHub Actions, reducing deployment time by 70%
+• Containerized all services with Docker, deployed to AWS EKS (Kubernetes)
+
+Python Developer | Enterprise IT | 2020–2022
+• Built internal automation tools saving 15 hours/week across teams
+• Developed ETL pipelines processing 10GB daily with Apache Airflow
+• Created REST APIs using Flask integrated with Oracle and PostgreSQL databases
+• Wrote comprehensive unit and integration tests (92% coverage)
+
+Software Engineer Intern | WebAgency | 2019–2020
+• Built web scraping tools and data collection pipelines
+• Developed REST endpoints for client management platform
+
+SKILLS:
+Python, FastAPI, Flask, PostgreSQL, Redis, Docker, Kubernetes, AWS (EC2, RDS, S3, EKS),
+GitHub Actions, Apache Airflow, Kafka, SQLAlchemy, Pydantic, pytest, REST APIs,
+GraphQL, Git, Linux, Nginx, Celery
+
+EDUCATION:
+B.Tech in Information Technology | PICT Pune | 2019
+
+CERTIFICATIONS:
+• AWS Solutions Architect Associate (2023)
+• Docker Certified Associate (2022)
+• Python Institute PCPP (2021)
+
+OPEN SOURCE:
+• Contributed to FastAPI (15 PRs merged)
+• Built "fastapi-auth-kit" library with 500+ GitHub stars
+• Active contributor to SQLAlchemy documentation

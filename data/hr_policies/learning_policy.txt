@@ -1,0 +1,36 @@
+ENTERPRISE HR LEARNING AND DEVELOPMENT POLICY
+Version 2.0 | Effective: January 2024
+
+1. LEARNING PHILOSOPHY
+   The company is committed to continuous learning and employee development.
+   Each employee receives an annual Learning Budget of INR 50,000 / USD 600.
+   Learning time of 5% (approx. 2 hours/week) is protected during work hours.
+
+2. MANDATORY TRAINING
+   All employees must complete:
+   - Annual Information Security Awareness (4 hours)
+   - Code of Conduct and Ethics (2 hours)
+   - Diversity, Equity & Inclusion (3 hours)
+   - Role-specific compliance training as applicable
+
+3. OPTIONAL TRAINING AND CERTIFICATION
+   Employees may pursue external certifications with manager approval.
+   Pre-approved certifications include: AWS, GCP, Azure, PMP, CFA, SHRM, etc.
+   The company sponsors certification exam fees for first attempts.
+   Successful certification earns a one-time bonus of INR 10,000 / USD 120.
+
+4. INTERNAL LEARNING PROGRAMS
+   Monthly tech talks and knowledge sharing sessions.
+   Annual Hackathon with prizes for top teams.
+   Mentorship program: 6-month structured mentoring cycles.
+   Leadership development tracks for high-potential employees.
+
+5. TUITION ASSISTANCE
+   Employees pursuing job-related higher education may apply for tuition assistance.
+   Maximum reimbursement: INR 200,000 / USD 2500 per academic year.
+   Bond period: 2 years of service post-completion required.
+
+6. LEARNING MANAGEMENT SYSTEM
+   All trainings are tracked on the company LMS (learning.company.com).
+   Training completion is factored into the annual performance review.
+   Managers can assign mandatory courses to their team members.

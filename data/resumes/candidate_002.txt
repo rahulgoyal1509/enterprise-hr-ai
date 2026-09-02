@@ -1,0 +1,48 @@
+RESUME - CANDIDATE 002
+
+NAME: Priya Reddy
+EMAIL: priya.reddy@email.com | PHONE: +91-9845123456
+LOCATION: Hyderabad, India
+
+SUMMARY:
+Data Analyst with 3 years of experience transforming complex datasets into business insights.
+Expertise in SQL, Python, Power BI, and statistical analysis. Strong communication skills 
+with a track record of influencing data-driven decisions.
+
+WORK EXPERIENCE:
+
+Senior Data Analyst | MegaCorp | 2023–Present
+• Built executive HR dashboard in Power BI tracking 20+ KPIs for 5,000 employees
+• Performed attrition analysis identifying 3 key drivers, reducing turnover by 12%
+• Automated monthly reporting pipeline using Python, saving 20 hours/month
+• Designed A/B tests for training programs, measuring ROI of learning investments
+• Collaborated with HRBP team to translate analysis into actionable HR policies
+
+Data Analyst | RetailCo | 2021–2023
+• Analyzed sales data for 500 stores across India, identifying regional trends
+• Built profitability dashboards showing product/category/region breakdowns
+• Wrote complex SQL queries joining 15+ tables for customer 360 view
+• Created employee engagement survey analysis using statistical techniques
+
+Junior Analyst | ConsultingFirm | 2020–2021
+• Supported data collection and cleaning for client analytics projects
+• Created Excel models for financial forecasting
+
+SKILLS:
+SQL (Advanced), Python (pandas, matplotlib, seaborn, plotly), Power BI, Tableau,
+Google Analytics, Excel (Advanced), R, Statistical Analysis, A/B Testing,
+Google BigQuery, Snowflake, dbt, Git
+
+EDUCATION:
+MBA (Business Analytics) | ISB Hyderabad | 2020
+B.Com (Statistics) | Osmania University | 2018
+
+CERTIFICATIONS:
+• Microsoft Power BI Data Analyst Associate (2023)
+• Google Data Analytics Professional Certificate (2021)
+• Tableau Desktop Specialist (2022)
+
+KEY ACHIEVEMENTS:
+• Reduced reporting time by 60% through automation
+• Identified ₹2 Cr cost-saving opportunity through spend analysis
+• Speaker at HR Analytics Conference 2023

@@ -1,0 +1,33 @@
+JOB TITLE: Machine Learning Engineer
+DEPARTMENT: Technology / AI
+LEVEL: Mid-Senior (Level 3-4)
+
+ABOUT THE ROLE:
+We are looking for a Machine Learning Engineer to join our AI team and build 
+production-grade ML systems that power our HR intelligence platform.
+
+KEY RESPONSIBILITIES:
+• Design, develop, and deploy machine learning models (classification, regression, clustering)
+• Build ML pipelines for data preprocessing, feature engineering, and model training
+• Implement MLOps practices: versioning, monitoring, A/B testing, model retraining
+• Collaborate with data engineers to build scalable data pipelines
+• Work with product teams to translate business requirements into ML solutions
+• Optimize model performance and inference latency
+• Write clean, well-documented, production-ready Python code
+
+REQUIRED SKILLS:
+• 4+ years of ML/DS experience
+• Strong Python (scikit-learn, pandas, numpy, PyTorch or TensorFlow)
+• Experience with MLflow, DVC, or similar MLOps tools
+• Cloud ML platforms: AWS SageMaker, GCP Vertex AI, or Azure ML
+• Feature stores, model registries, and serving infrastructure
+• SQL and data warehouse experience (Snowflake, BigQuery, Redshift)
+• Statistical modeling and experimental design
+
+NICE TO HAVE:
+• Experience with LLMs, fine-tuning, RAG systems
+• Knowledge of Spark, Kafka for streaming ML
+• Familiarity with Kubernetes and Docker
+• Publications or open-source contributions
+
+COMPENSATION: ₹18–28 LPA / $90,000–$130,000 USD

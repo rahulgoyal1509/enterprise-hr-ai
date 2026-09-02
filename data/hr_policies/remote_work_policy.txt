@@ -1,0 +1,38 @@
+ENTERPRISE HR REMOTE WORK POLICY
+Version 1.5 | Effective: March 2024
+
+1. ELIGIBILITY
+   Remote work is available to all permanent employees who have completed 6 months of service.
+   Probationary employees are not eligible for remote work arrangements.
+   Roles requiring physical presence (Lab Tech, Production) are excluded.
+
+2. HYBRID WORK MODEL
+   The standard model is 3 days in office, 2 days remote per week.
+   Core office days are Tuesday, Wednesday, and Thursday.
+   Monday and Friday are flexible remote days by default.
+
+3. EQUIPMENT AND INFRASTRUCTURE
+   Company provides a laptop, monitor, and ergonomic accessories for remote work.
+   Employees are responsible for a stable internet connection (minimum 25 Mbps).
+   Company will reimburse internet costs up to INR 1500 / USD 20 per month.
+   VPN usage is mandatory when accessing company systems remotely.
+
+4. WORK HOURS AND AVAILABILITY
+   Employees must maintain core hours: 10 AM – 4 PM in their local time zone.
+   Total work hours remain unchanged (8 hours per day).
+   Employees must respond to messages within 2 hours during core hours.
+
+5. SECURITY AND COMPLIANCE
+   Employees must not use public Wi-Fi without VPN.
+   Company data must not be stored on personal devices.
+   Employees must lock screens when stepping away from devices.
+   Any security incidents must be reported to IT within 1 hour.
+
+6. PERFORMANCE AND MONITORING
+   Performance expectations are identical for remote and in-office employees.
+   Managers must conduct weekly 1:1 check-ins with remote team members.
+   Remote work privileges may be revoked for performance or policy violations.
+
+7. TRAVEL AND EXPENSE
+   Occasional travel to office or client site is expected even in remote roles.
+   Travel expenses are reimbursed per company travel policy.
