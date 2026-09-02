@@ -186,11 +186,23 @@ COLOR_SEQ = ["#63b3ed", "#68d391", "#f6ad55", "#fc4e4e", "#b794f4",
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-#   DATA CACHE
+#   DATA CACHE & AUTOMATIC CLOUD INITIALIZATION
 # ═══════════════════════════════════════════════════════════════════════════════
 
-@st.cache_data(ttl=3600, show_spinner="Loading HR data …")
+def ensure_platform_initialized():
+    """Automatically runs data pipeline + model training on first launch (e.g. Streamlit Cloud)."""
+    from config.settings import ATTRITION_MODEL_PATH, LABEL_ENCODERS_PATH, PROCESSED_DIR
+    if not ATTRITION_MODEL_PATH.exists() or not LABEL_ENCODERS_PATH.exists() or not (PROCESSED_DIR / "attrition.csv").exists():
+        try:
+            from setup import main as run_setup
+            run_setup()
+        except Exception as e:
+            st.error(f"Setup initialization error: {e}")
+
+
+@st.cache_data(ttl=3600, show_spinner="Initialising HR platform & loading data …")
 def load_all_data():
+    ensure_platform_initialized()
     from app.backend.services.data_pipeline import get_data
     return get_data()
 
